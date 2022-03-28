@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Este es un archivo
+=======
+Este es un archivo
+>>>>>>> f8c466727413d17bd2da8c569b48d66697ac1db7
 de prueba de git
