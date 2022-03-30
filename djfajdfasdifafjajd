@@ -1,0 +1,86 @@
+[33mcommit 86f3d33c182e45701c8d8d4c57e59db42a0e8b49[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Tue Mar 29 21:48:07 2022 -0600
+
+    titulo
+
+[33mcommit 6e9cffcf88866f9c3be4711d2424cad920ebc899[m
+Merge: 58a63a3 2aee433
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Tue Mar 29 20:00:39 2022 -0600
+
+    Merge branch 'main' of github.com:klopez11umg/blog
+
+[33mcommit 58a63a33f937fa0908c205594a50d95d49e89941[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Tue Mar 29 19:41:12 2022 -0600
+
+    se agregaron
+
+[33mcommit 2aee433a45fabd69e856772112836ed037a2a860[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Sun Mar 27 18:45:12 2022 -0600
+
+    coloque nuevo al titulo
+
+[33mcommit cfe876deafef51216bcac5b2c191d6eb30ffdc40[m
+Merge: d05b5da f8c4667
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Sun Mar 27 18:21:23 2022 -0600
+
+    no se me pide merge
+
+[33mcommit d05b5da0a40c86a92ea2dce3084430fe21f6af9f[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Sun Mar 27 17:53:09 2022 -0600
+
+    se cambio algo del archivo blog
+
+[33mcommit f8c466727413d17bd2da8c569b48d66697ac1db7[m
+Author: klopez11umg <102404060+klopez11umg@users.noreply.github.com>
+Date:   Sat Mar 26 00:44:25 2022 -0600
+
+    Add files via upload
+
+[33mcommit 1eadd8c2a5ad785aec7e8581f5bd0047af9791b0[m
+Author: klopez11umg <102404060+klopez11umg@users.noreply.github.com>
+Date:   Sat Mar 26 00:20:09 2022 -0600
+
+    Initial commit
+
+[33mcommit 4ae2f7c1210aab46e4d3a5e52fc30f05772337db[m
+Merge: ac3934f ef8c06a
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Fri Mar 25 23:31:59 2022 -0600
+
+    Merge branch 'cabecera'
+
+[33mcommit ef8c06a95f54b7681dd6900a93fef6eeaa6af520[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Fri Mar 25 23:31:10 2022 -0600
+
+    parrafor nuevo
+
+[33mcommit ac3934fedadbc0c0117de0b8548f33d9494b7380[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Fri Mar 25 22:02:27 2022 -0600
+
+    Finalizacion de cabecera
+
+[33mcommit f7e2851ce030a025a6b794344619417033197732[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Fri Mar 25 00:19:43 2022 -0600
+
+    3 cambios nuevos de forma
+
+[33mcommit efe1e2d83aa51d33f0c5c3cdd7d58591d0d060bd[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Thu Mar 24 22:57:38 2022 -0600
+
+    Cambios a archivo de Historia
+
+[33mcommit a5e38d28527b21ffef51a3e896a3ab3e589de8e7[m
+Author: Keren Lopez <kl583584@gmail.com>
+Date:   Thu Mar 24 22:46:49 2022 -0600
+
+    Este es el primer commit
